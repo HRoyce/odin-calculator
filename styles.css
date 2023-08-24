@@ -31,6 +31,9 @@ body{
     align-items: end;
     justify-content: end;
     padding:10px;
+    white-space: nowrap;
+    overflow:hidden;
+    
 }
 #displayValue{
     color:White;
